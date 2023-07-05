@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto 1",
+      "price": 1.2,
+      "id": 4
+    },
+    {
+      "name": "Formulario",
+      "price": "9.00",
+      "id": 5
+    }
+  ]
+}
